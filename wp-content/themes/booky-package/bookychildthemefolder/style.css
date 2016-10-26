@@ -1,0 +1,15 @@
+/*
+Theme Name: Booky Child
+Theme URI:
+Description: Your child theme description text...
+Author: Your Name
+Author URI: http://www.yourdomain.com/
+Template: booky
+Version: 1.0
+Tags: Booky Child Theme
+*/
+
+/* Import the stylesheet from the booky parent theme */
+@import url('../booky/style.css');
+
+/* Now you can start adding your own styles here. Use !important to overwrite styles if needed. */
